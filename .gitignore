@@ -1,0 +1,73 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependency directories
+/node_modules/
+/.pnp
+.pnp.js
+
+# Debug log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js build output
+.next/
+
+# Gatsby files
+.cache/
+public/
+
+# Nuxt.js files
+.nuxt/
+dist/
+
+# Parcel-bundler cache
+.cache/
+
+# Mac system files
+.DS_Store
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build files
+build/
+dist/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# Miscellaneous
+*.swp
+*.out
+*.pid
+*.seed
+*.pid.lock
+
+# Lock files (optional, depending on your team workflow)
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
