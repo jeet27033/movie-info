@@ -1,2 +1,2 @@
 # movie-info
-Movie information 
+Movie information App
